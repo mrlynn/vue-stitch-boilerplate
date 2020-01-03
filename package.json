@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "mongodb-stitch-browser-sdk": "4.7.1",
+    "mongodb-stitch-browser-sdk": "4.8.0",
     "vue": "2.6.11",
     "vue-router": "3.1.3"
   },
